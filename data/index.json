@@ -1,44 +1,44 @@
 {
   "schema": "winbox.site/2",
-  "updated": 1793788414,
+  "updated": 1793937651,
   "sites": {
     "hjzhencai": {
       "name": "花卷影视",
       "cats": 7,
-      "items": 21952,
-      "with_lines": 21622,
-      "ts": 1793788417,
+      "items": 22119,
+      "with_lines": 21789,
+      "ts": 1793937985,
       "ok": true,
       "last_error": "",
       "cats_meta": {
         "22": {
           "name": "花卷高帧",
-          "items": 1102,
-          "with_lines": 1102,
+          "items": 1107,
+          "with_lines": 1107,
           "file": "hjzhencai/22.json"
         },
         "1": {
           "name": "花卷电影",
-          "items": 6386,
-          "with_lines": 6274,
+          "items": 6410,
+          "with_lines": 6298,
           "file": "hjzhencai/1.json"
         },
         "2": {
           "name": "花卷剧集",
-          "items": 5603,
-          "with_lines": 5395,
+          "items": 5617,
+          "with_lines": 5409,
           "file": "hjzhencai/2.json"
         },
         "3": {
           "name": "花卷动漫",
-          "items": 485,
-          "with_lines": 476,
+          "items": 486,
+          "with_lines": 477,
           "file": "hjzhencai/3.json"
         },
         "23": {
           "name": "花卷AI短剧",
-          "items": 7131,
-          "with_lines": 7131,
+          "items": 7235,
+          "with_lines": 7235,
           "file": "hjzhencai/23.json"
         },
         "21": {
@@ -49,8 +49,8 @@
         },
         "24": {
           "name": "4K原盘",
-          "items": 909,
-          "with_lines": 909,
+          "items": 928,
+          "with_lines": 928,
           "file": "hjzhencai/24.json"
         }
       }
@@ -58,22 +58,22 @@
     "libvio": {
       "name": "LIBVIO",
       "cats": 5,
-      "items": 13013,
-      "with_lines": 9446,
-      "ts": 1793788418,
+      "items": 13018,
+      "with_lines": 8589,
+      "ts": 1793938135,
       "ok": true,
       "last_error": "",
       "cats_meta": {
         "1": {
           "name": "电影",
-          "items": 3176,
-          "with_lines": 2460,
+          "items": 3177,
+          "with_lines": 1599,
           "file": "libvio/1.json"
         },
         "2": {
           "name": "连续剧",
-          "items": 4510,
-          "with_lines": 3199,
+          "items": 4512,
+          "with_lines": 3201,
           "file": "libvio/2.json"
         },
         "4": {
@@ -84,14 +84,14 @@
         },
         "15": {
           "name": "综艺",
-          "items": 1616,
-          "with_lines": 1234,
+          "items": 1617,
+          "with_lines": 1235,
           "file": "libvio/15.json"
         },
         "16": {
           "name": "纪录片",
-          "items": 2558,
-          "with_lines": 1752,
+          "items": 2559,
+          "with_lines": 1753,
           "file": "libvio/16.json"
         }
       }
@@ -99,34 +99,34 @@
     "ddys": {
       "name": "低端影视",
       "cats": 4,
-      "items": 10753,
-      "with_lines": 10028,
-      "ts": 1793788414,
+      "items": 10869,
+      "with_lines": 5142,
+      "ts": 1793937658,
       "ok": true,
       "last_error": "",
       "cats_meta": {
         "movie": {
           "name": "电影",
-          "items": 5224,
-          "with_lines": 4594,
+          "items": 5288,
+          "with_lines": 1740,
           "file": "ddys/movie.json"
         },
         "series": {
           "name": "剧集",
-          "items": 4119,
-          "with_lines": 4070,
+          "items": 4153,
+          "with_lines": 2020,
           "file": "ddys/series.json"
         },
         "anime": {
           "name": "动漫",
-          "items": 1199,
-          "with_lines": 1158,
+          "items": 1210,
+          "with_lines": 1169,
           "file": "ddys/anime.json"
         },
         "variety": {
           "name": "综艺",
-          "items": 211,
-          "with_lines": 206,
+          "items": 218,
+          "with_lines": 213,
           "file": "ddys/variety.json"
         }
       }
