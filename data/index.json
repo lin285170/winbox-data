@@ -1,13 +1,13 @@
 {
   "schema": "winbox.site/2",
-  "updated": 1793937651,
+  "updated": 1793941278,
   "sites": {
     "hjzhencai": {
       "name": "花卷影视",
       "cats": 7,
-      "items": 22119,
-      "with_lines": 21789,
-      "ts": 1793937985,
+      "items": 22118,
+      "with_lines": 21788,
+      "ts": 1793941613,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -19,20 +19,20 @@
         },
         "1": {
           "name": "花卷电影",
-          "items": 6410,
-          "with_lines": 6298,
+          "items": 6409,
+          "with_lines": 6297,
           "file": "hjzhencai/1.json"
         },
         "2": {
           "name": "花卷剧集",
-          "items": 5617,
-          "with_lines": 5409,
+          "items": 5618,
+          "with_lines": 5410,
           "file": "hjzhencai/2.json"
         },
         "3": {
           "name": "花卷动漫",
-          "items": 486,
-          "with_lines": 477,
+          "items": 485,
+          "with_lines": 476,
           "file": "hjzhencai/3.json"
         },
         "23": {
@@ -60,7 +60,7 @@
       "cats": 5,
       "items": 13018,
       "with_lines": 8589,
-      "ts": 1793938135,
+      "ts": 1793941819,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -99,9 +99,9 @@
     "ddys": {
       "name": "低端影视",
       "cats": 4,
-      "items": 10869,
-      "with_lines": 5142,
-      "ts": 1793937658,
+      "items": 10868,
+      "with_lines": 5141,
+      "ts": 1793941283,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -113,8 +113,8 @@
         },
         "series": {
           "name": "剧集",
-          "items": 4153,
-          "with_lines": 2020,
+          "items": 4152,
+          "with_lines": 2019,
           "file": "ddys/series.json"
         },
         "anime": {
