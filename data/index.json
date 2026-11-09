@@ -1,7 +1,42 @@
 {
   "schema": "winbox.site/2",
-  "updated": 1794114048,
+  "updated": 1794198149,
   "sites": {
+    "ddys": {
+      "name": "低端影视",
+      "cats": 4,
+      "items": 10980,
+      "with_lines": 5246,
+      "ts": 1794198149,
+      "ok": true,
+      "last_error": "",
+      "cats_meta": {
+        "movie": {
+          "name": "电影",
+          "items": 5341,
+          "with_lines": 1785,
+          "file": "ddys/movie.json"
+        },
+        "series": {
+          "name": "剧集",
+          "items": 4170,
+          "with_lines": 2040,
+          "file": "ddys/series.json"
+        },
+        "anime": {
+          "name": "动漫",
+          "items": 1245,
+          "with_lines": 1202,
+          "file": "ddys/anime.json"
+        },
+        "variety": {
+          "name": "综艺",
+          "items": 224,
+          "with_lines": 219,
+          "file": "ddys/variety.json"
+        }
+      }
+    },
     "hjzhencai": {
       "name": "花卷影视",
       "cats": 7,
@@ -93,41 +128,6 @@
           "items": 2560,
           "with_lines": 1754,
           "file": "libvio/16.json"
-        }
-      }
-    },
-    "ddys": {
-      "name": "低端影视",
-      "cats": 4,
-      "items": 10905,
-      "with_lines": 5177,
-      "ts": 1794114052,
-      "ok": true,
-      "last_error": "",
-      "cats_meta": {
-        "movie": {
-          "name": "电影",
-          "items": 5296,
-          "with_lines": 1745,
-          "file": "ddys/movie.json"
-        },
-        "series": {
-          "name": "剧集",
-          "items": 4156,
-          "with_lines": 2025,
-          "file": "ddys/series.json"
-        },
-        "anime": {
-          "name": "动漫",
-          "items": 1229,
-          "with_lines": 1188,
-          "file": "ddys/anime.json"
-        },
-        "variety": {
-          "name": "综艺",
-          "items": 224,
-          "with_lines": 219,
-          "file": "ddys/variety.json"
         }
       }
     }
