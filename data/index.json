@@ -1,13 +1,13 @@
 {
   "schema": "winbox.site/2",
-  "updated": 1794313133,
+  "updated": 1794347580,
   "sites": {
     "hjzhencai": {
       "name": "花卷影视",
       "cats": 7,
       "items": 22184,
       "with_lines": 21854,
-      "ts": 1794313133,
+      "ts": 1794347580,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -58,34 +58,34 @@
     "ddys": {
       "name": "低端影视",
       "cats": 4,
-      "items": 10990,
-      "with_lines": 10257,
-      "ts": 1794312258,
+      "items": 11014,
+      "with_lines": 10281,
+      "ts": 1794346707,
       "ok": true,
       "last_error": "",
       "cats_meta": {
         "movie": {
           "name": "电影",
-          "items": 5324,
-          "with_lines": 4687,
+          "items": 5335,
+          "with_lines": 4699,
           "file": "ddys/movie.json"
         },
         "series": {
           "name": "剧集",
-          "items": 4180,
-          "with_lines": 4131,
+          "items": 4190,
+          "with_lines": 4140,
           "file": "ddys/series.json"
         },
         "anime": {
           "name": "动漫",
-          "items": 1258,
-          "with_lines": 1215,
+          "items": 1259,
+          "with_lines": 1216,
           "file": "ddys/anime.json"
         },
         "variety": {
           "name": "综艺",
-          "items": 228,
-          "with_lines": 224,
+          "items": 230,
+          "with_lines": 226,
           "file": "ddys/variety.json"
         }
       }
@@ -95,7 +95,7 @@
       "cats": 5,
       "items": 13031,
       "with_lines": 8596,
-      "ts": 1794312850,
+      "ts": 1794347301,
       "ok": true,
       "last_error": "",
       "cats_meta": {
