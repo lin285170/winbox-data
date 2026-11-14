@@ -1,13 +1,13 @@
 {
   "schema": "winbox.site/2",
-  "updated": 1794628864,
+  "updated": 1794630107,
   "sites": {
     "hjzhencai": {
       "name": "花卷影视",
       "cats": 7,
       "items": 22989,
       "with_lines": 22032,
-      "ts": 1794629463,
+      "ts": 1794630702,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -60,7 +60,7 @@
       "cats": 5,
       "items": 13048,
       "with_lines": 9686,
-      "ts": 1794629752,
+      "ts": 1794630972,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -101,7 +101,7 @@
       "cats": 4,
       "items": 11344,
       "with_lines": 10420,
-      "ts": 1794628865,
+      "ts": 1794630107,
       "ok": true,
       "last_error": "",
       "cats_meta": {
