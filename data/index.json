@@ -1,13 +1,13 @@
 {
   "schema": "winbox.site/2",
-  "updated": 1794715260,
+  "updated": 1794801648,
   "sites": {
     "hjzhencai": {
       "name": "花卷影视",
       "cats": 7,
-      "items": 23005,
-      "with_lines": 22048,
-      "ts": 1794715855,
+      "items": 23014,
+      "with_lines": 22057,
+      "ts": 1794802242,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -49,8 +49,8 @@
         },
         "24": {
           "name": "4K原盘",
-          "items": 978,
-          "with_lines": 978,
+          "items": 987,
+          "with_lines": 987,
           "file": "hjzhencai/24.json"
         }
       }
@@ -60,7 +60,7 @@
       "cats": 5,
       "items": 13053,
       "with_lines": 9691,
-      "ts": 1794716147,
+      "ts": 1794802516,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -99,33 +99,33 @@
     "ddys": {
       "name": "低端影视",
       "cats": 4,
-      "items": 11358,
-      "with_lines": 10429,
-      "ts": 1794715261,
+      "items": 11362,
+      "with_lines": 10434,
+      "ts": 1794801648,
       "ok": true,
       "last_error": "",
       "cats_meta": {
         "movie": {
           "name": "电影",
-          "items": 5515,
+          "items": 5513,
           "with_lines": 4766,
           "file": "ddys/movie.json"
         },
         "series": {
           "name": "剧集",
-          "items": 4293,
-          "with_lines": 4164,
+          "items": 4297,
+          "with_lines": 4168,
           "file": "ddys/series.json"
         },
         "anime": {
           "name": "动漫",
-          "items": 1310,
-          "with_lines": 1266,
+          "items": 1311,
+          "with_lines": 1267,
           "file": "ddys/anime.json"
         },
         "variety": {
           "name": "综艺",
-          "items": 240,
+          "items": 241,
           "with_lines": 233,
           "file": "ddys/variety.json"
         }
