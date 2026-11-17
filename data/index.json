@@ -1,13 +1,13 @@
 {
   "schema": "winbox.site/2",
-  "updated": 1794889255,
+  "updated": 1794890441,
   "sites": {
     "hjzhencai": {
       "name": "花卷影视",
       "cats": 7,
       "items": 23026,
       "with_lines": 22069,
-      "ts": 1794889852,
+      "ts": 1794891041,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -60,7 +60,7 @@
       "cats": 5,
       "items": 13054,
       "with_lines": 9692,
-      "ts": 1794890133,
+      "ts": 1794891316,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -99,9 +99,9 @@
     "ddys": {
       "name": "低端影视",
       "cats": 4,
-      "items": 11371,
-      "with_lines": 10442,
-      "ts": 1794889256,
+      "items": 11374,
+      "with_lines": 10445,
+      "ts": 1794890442,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -119,8 +119,8 @@
         },
         "anime": {
           "name": "动漫",
-          "items": 1316,
-          "with_lines": 1272,
+          "items": 1319,
+          "with_lines": 1275,
           "file": "ddys/anime.json"
         },
         "variety": {
