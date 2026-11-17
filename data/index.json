@@ -1,13 +1,13 @@
 {
   "schema": "winbox.site/2",
-  "updated": 1794805292,
+  "updated": 1794888042,
   "sites": {
     "hjzhencai": {
       "name": "花卷影视",
       "cats": 7,
-      "items": 23014,
-      "with_lines": 22057,
-      "ts": 1794805890,
+      "items": 23025,
+      "with_lines": 22068,
+      "ts": 1794888638,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -25,8 +25,8 @@
         },
         "2": {
           "name": "花卷剧集",
-          "items": 5644,
-          "with_lines": 5436,
+          "items": 5649,
+          "with_lines": 5441,
           "file": "hjzhencai/2.json"
         },
         "3": {
@@ -49,8 +49,8 @@
         },
         "24": {
           "name": "4K原盘",
-          "items": 987,
-          "with_lines": 987,
+          "items": 993,
+          "with_lines": 993,
           "file": "hjzhencai/24.json"
         }
       }
@@ -58,16 +58,16 @@
     "libvio": {
       "name": "LIBVIO",
       "cats": 5,
-      "items": 13053,
-      "with_lines": 9691,
-      "ts": 1794806169,
+      "items": 13054,
+      "with_lines": 9692,
+      "ts": 1794888911,
       "ok": true,
       "last_error": "",
       "cats_meta": {
         "1": {
           "name": "电影",
-          "items": 3188,
-          "with_lines": 2547,
+          "items": 3189,
+          "with_lines": 2548,
           "file": "libvio/1.json"
         },
         "2": {
@@ -99,34 +99,34 @@
     "ddys": {
       "name": "低端影视",
       "cats": 4,
-      "items": 11365,
-      "with_lines": 10437,
-      "ts": 1794805293,
+      "items": 11371,
+      "with_lines": 10442,
+      "ts": 1794888043,
       "ok": true,
       "last_error": "",
       "cats_meta": {
         "movie": {
           "name": "电影",
-          "items": 5513,
-          "with_lines": 4766,
+          "items": 5512,
+          "with_lines": 4767,
           "file": "ddys/movie.json"
         },
         "series": {
           "name": "剧集",
-          "items": 4297,
-          "with_lines": 4168,
+          "items": 4300,
+          "with_lines": 4169,
           "file": "ddys/series.json"
         },
         "anime": {
           "name": "动漫",
-          "items": 1314,
-          "with_lines": 1270,
+          "items": 1316,
+          "with_lines": 1272,
           "file": "ddys/anime.json"
         },
         "variety": {
           "name": "综艺",
-          "items": 241,
-          "with_lines": 233,
+          "items": 243,
+          "with_lines": 234,
           "file": "ddys/variety.json"
         }
       }
