@@ -1,31 +1,31 @@
 {
   "schema": "winbox.site/2",
-  "updated": 1794975849,
+  "updated": 1794978625,
   "sites": {
     "ddys": {
       "name": "低端影视",
       "cats": 4,
-      "items": 11395,
-      "with_lines": 10455,
-      "ts": 1794975849,
+      "items": 11397,
+      "with_lines": 10457,
+      "ts": 1794978626,
       "ok": true,
       "last_error": "",
       "cats_meta": {
         "movie": {
           "name": "电影",
           "items": 5514,
-          "with_lines": 4767,
+          "with_lines": 4768,
           "file": "ddys/movie.json"
         },
         "series": {
           "name": "剧集",
-          "items": 4312,
-          "with_lines": 4178,
+          "items": 4313,
+          "with_lines": 4179,
           "file": "ddys/series.json"
         },
         "anime": {
           "name": "动漫",
-          "items": 1324,
+          "items": 1325,
           "with_lines": 1275,
           "file": "ddys/anime.json"
         },
@@ -42,7 +42,7 @@
       "cats": 7,
       "items": 23039,
       "with_lines": 22082,
-      "ts": 1794976445,
+      "ts": 1794979221,
       "ok": true,
       "last_error": "",
       "cats_meta": {
@@ -95,7 +95,7 @@
       "cats": 5,
       "items": 13062,
       "with_lines": 9699,
-      "ts": 1794976713,
+      "ts": 1794979538,
       "ok": true,
       "last_error": "",
       "cats_meta": {
